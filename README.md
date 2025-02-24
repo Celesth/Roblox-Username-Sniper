@@ -1,10 +1,10 @@
-# Roblox Username Generator
+# Roblox Username Sniper
 
-This project generates random usernames suitable for Roblox and saves them to a file.
+This Project Allows People To Snipe Specific Names Such As 4L UN and above.
 
 ## How to Use
 
-### 1. Running the Username Generator
+### 1. Running the Username Sniper
 Run the following command to generate usernames:
 ```sh
 python main.py
