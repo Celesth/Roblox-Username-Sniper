@@ -1,2 +1,29 @@
-# Roblox-Username-Sniper
-Source Code To Snipe Names with built-in Username Generator For 4 Letters and more.
+# Roblox Username Generator
+
+This project generates random usernames suitable for Roblox and saves them to a file.
+
+## How to Use
+
+### 1. Running the Username Generator
+Run the following command to generate usernames:
+```sh
+python main.py
+```
+This will generate usernames and save them to `usernames.txt`.
+
+### 2. Manually Creating `usernames.txt`
+If you prefer, you can manually create `usernames.txt` and then run `main.py` to use an existing file.
+
+## File Structure
+- [`main.py`](./main.py) - Main script to generate and save usernames.
+- [`usernames.txt`](./usernames.txt) - Output file containing generated usernames.
+
+## Requirements
+- Python 3.x
+
+## Notes
+- The script generates a large number of usernames efficiently using optimized methods.
+- Usernames are saved one per line in `usernames.txt`.
+
+For any modifications, feel free to edit `main.py` and adjust the settings accordingly.
+
