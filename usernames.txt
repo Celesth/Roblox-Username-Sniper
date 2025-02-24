@@ -1,0 +1,9 @@
+example
+each
+one
+should
+take
+a
+line
+like
+this
