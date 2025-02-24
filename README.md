@@ -15,7 +15,8 @@ This will generate usernames and save them to `usernames.txt`.
 If you prefer, you can manually create `usernames.txt` and then run `main.py` to use an existing file.
 
 ## File Structure
-- [`main.py`](./main.py) - Main script to generate and save usernames.
+- [`main.py`](./main.py) - Main Script To Snipe Names
+- [`UG.py`](./UG.py) - Script to generate and save usernames.
 - [`usernames.txt`](./usernames.txt) - Output file containing generated usernames.
 
 ## Requirements
