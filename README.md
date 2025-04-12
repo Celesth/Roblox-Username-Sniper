@@ -7,7 +7,7 @@ This Project Allows People To Snipe Specific Names Such As 4L UN and above.
 ### 1. Running the Username Sniper
 Run the following command to generate usernames:
 ```sh
-python main.py
+python UG.py
 ```
 This will generate usernames and save them to `usernames.txt`.
 
